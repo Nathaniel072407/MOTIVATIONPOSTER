@@ -1,0 +1,15 @@
+html {
+    background-color: black;
+    text-align: center;
+    font-style: oblique;
+}
+
+h1 {
+    text-shadow: 2px 2px 5px red;
+  }
+
+img {
+    border: 10px groove rgb(127, 157, 255);
+  }
+
+  
